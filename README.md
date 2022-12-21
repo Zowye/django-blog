@@ -2,11 +2,11 @@
 Blog features fully made with Django Framework + CSS + HTML + JavaScript
 
 
-**/**
+**/** \n
 latest posts
 
 
-**/posts**
+**/posts** \n
 all the posts
 
 
